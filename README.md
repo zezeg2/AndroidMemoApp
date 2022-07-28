@@ -308,3 +308,6 @@ class MainActivity : AppCompatActivity() , OnDeleteListener{
         
         }
         ```
+        
+<img width="413" alt="image" src="https://user-images.githubusercontent.com/71999370/181495320-ea6c4afc-f56d-4ba3-ab2e-248c432d314a.png">
+<img width="408" alt="image" src="https://user-images.githubusercontent.com/71999370/181495334-0e9e5fe3-7aed-476a-a558-828d18f0048f.png">
